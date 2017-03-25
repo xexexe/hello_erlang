@@ -1,0 +1,2 @@
+helloworld:
+	erlc helloworld.erl
