@@ -1,0 +1,2 @@
+calculate:
+	erlc calculate.erl
